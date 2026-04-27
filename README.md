@@ -5,9 +5,9 @@
 ---
 ## Currently Learning:
 
-| HTML | Avançado |
+| Learning | Level |
 | ----------- | ----------- |
-| CSS     | Médiano      |
-| ----------- | ----------- |
-| Git     | Essencial      |
+| HTML    | Advanced      |
+| CSS     | Intermediate     |
+| Git     | Essential      |
 
